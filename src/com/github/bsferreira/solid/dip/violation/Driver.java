@@ -3,11 +3,11 @@ package com.github.bsferreira.solid.dip.violation;
 /**
  * Created by bsferreira on 17-04-2016.
  */
-public class Pilot {
+public class Driver {
 
     private RacingCar vehicle;
 
-    public Pilot(){
+    public Driver(){
         this.vehicle = new RacingCar(100);
     }
 

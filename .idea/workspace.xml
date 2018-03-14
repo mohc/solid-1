@@ -2,51 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="268ba7a5-c945-41e9-92a5-8c84ece6a86a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/uk/co/mohc/solid/dip/violation/DriverTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/uk/co/mohc/solid/dip/violation/RacingCarTest.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/solid-1.iml" afterPath="$PROJECT_DIR$/.idea/solid-1.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/dip/README.md" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/dip/README.md" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/dip/solution/Driver.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/dip/solution/Driver.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/dip/solution/RacingCar.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/dip/solution/RacingCar.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/dip/solution/Vehicle.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/dip/solution/Vehicle.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/dip/violation/Driver.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/dip/violation/Driver.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/dip/violation/RacingCar.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/dip/violation/RacingCar.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/isp/README.md" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/isp/README.md" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/isp/solution/CameraSwitch.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/isp/solution/CameraSwitch.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/isp/solution/Car.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/isp/solution/Car.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/isp/solution/Drone.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/isp/solution/Drone.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/isp/solution/EngineSwitch.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/isp/solution/EngineSwitch.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/isp/solution/RadioSwitch.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/isp/solution/RadioSwitch.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/isp/solution/Vehicle.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/isp/solution/Vehicle.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/isp/violation/Car.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/isp/violation/Car.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/isp/violation/Drone.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/isp/violation/Drone.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/isp/violation/Switches.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/isp/violation/Switches.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/isp/violation/Vehicle.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/isp/violation/Vehicle.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/lsp/README.md" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/lsp/README.md" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/lsp/solution/Car.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/lsp/solution/Car.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/lsp/solution/Gear.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/lsp/solution/Gear.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/lsp/solution/Plane.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/lsp/solution/Plane.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/lsp/solution/Vehicle.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/lsp/solution/Vehicle.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/lsp/violation/Car.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/lsp/violation/Car.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/lsp/violation/Gear.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/lsp/violation/Gear.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/lsp/violation/Plane.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/lsp/violation/Plane.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/lsp/violation/Vehicle.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/lsp/violation/Vehicle.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/ocp/README.md" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/ocp/README.md" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/ocp/solution/Comfort.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/ocp/solution/Comfort.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/ocp/solution/DrivingMode.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/ocp/solution/DrivingMode.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/ocp/solution/Economy.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/ocp/solution/Economy.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/ocp/solution/EventHandler.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/ocp/solution/EventHandler.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/ocp/solution/Sport.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/ocp/solution/Sport.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/ocp/solution/Vehicle.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/ocp/solution/Vehicle.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/ocp/violation/DrivingMode.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/ocp/violation/DrivingMode.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/ocp/violation/EventHandler.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/ocp/violation/EventHandler.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/ocp/violation/Vehicle.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/ocp/violation/Vehicle.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/srp/README.md" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/srp/README.md" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/srp/solution/FuelPump.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/srp/solution/PetrolPump.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/srp/solution/Vehicle.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/srp/solution/Vehicle.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/bsferreira/solid/srp/violation/Vehicle.java" afterPath="$PROJECT_DIR$/src/uk/co/mohc/solid/srp/violation/Vehicle.java" />
+      <change beforePath="$PROJECT_DIR$/classes/test/solid-1/uk/co/mohc/solid/dip/violation/DriverTest.class" afterPath="$PROJECT_DIR$/classes/test/solid-1/uk/co/mohc/solid/dip/violation/DriverTest.class" />
+      <change beforePath="$PROJECT_DIR$/test/uk/co/mohc/solid/dip/violation/DriverTest.java" afterPath="$PROJECT_DIR$/test/uk/co/mohc/solid/dip/violation/DriverTest.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -83,14 +40,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DriverTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DriverTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/uk/co/mohc/solid/dip/violation/DriverTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="324">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
-                <element signature="e#142#143#0" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RacingCarTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/uk/co/mohc/solid/dip/violation/RacingCarTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#246#247#0" expanded="true" />
+                <element signature="e#281#282#0" expanded="true" />
+                <element signature="e#319#320#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -129,22 +104,6 @@
                 <element signature="e#166#167#0" expanded="true" />
                 <element signature="e#200#201#0" expanded="true" />
                 <element signature="e#236#237#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RacingCarTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/uk/co/mohc/solid/dip/violation/RacingCarTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#200#201#0" expanded="true" />
-                <element signature="e#246#247#0" expanded="true" />
-                <element signature="e#281#282#0" expanded="true" />
-                <element signature="e#319#320#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -261,10 +220,10 @@
         <option value="$PROJECT_DIR$/src/uk/co/mohc/test/solid/dip/violation/DriverTest.java" />
         <option value="$PROJECT_DIR$/test/uk/co/solid/dip/violation/DriverTest.java" />
         <option value="$PROJECT_DIR$/src/uk/co/mohc/solid/dip/violation/Driver.java" />
-        <option value="$PROJECT_DIR$/test/uk/co/mohc/solid/dip/violation/DriverTest.java" />
         <option value="$PROJECT_DIR$/src/uk/co/mohc/solid/dip/violation/RacingCar.java" />
         <option value="$PROJECT_DIR$/src/uk/co/mohc/solid/dip/solution/Driver.java" />
         <option value="$PROJECT_DIR$/test/uk/co/mohc/solid/dip/violation/RacingCarTest.java" />
+        <option value="$PROJECT_DIR$/test/uk/co/mohc/solid/dip/violation/DriverTest.java" />
       </list>
     </option>
   </component>
@@ -275,8 +234,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1073" />
-    <option name="y" value="856" />
+    <option name="x" value="1024" />
+    <option name="y" value="725" />
     <option name="width" value="2106" />
     <option name="height" value="1285" />
   </component>
@@ -476,7 +435,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in solid-1">
+  <component name="RunManager" selected="JUnit.DriverTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -507,6 +466,31 @@
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="DriverTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="uk.co.mohc.solid.dip.violation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="solid-1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="uk.co.mohc.solid.dip.violation" />
+      <option name="MAIN_CLASS_NAME" value="uk.co.mohc.solid.dip.violation.DriverTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -628,16 +612,18 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="JUnit.DriverTest.DriverTest" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.RacingCarTest" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.All in solid-1" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.DriverTest" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.All in solid-1" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.RacingCarTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.DriverTest.DriverTest" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.DriverTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.All in solid-1" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.RacingCarTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.DriverTest.DriverTest" />
       </list>
     </recent_temporary>
   </component>
@@ -658,13 +644,19 @@
       <workItem from="1520951038344" duration="320000" />
       <workItem from="1520951384156" duration="6274000" />
       <workItem from="1520964729417" duration="3822000" />
-      <workItem from="1521038745746" duration="5665000" />
+      <workItem from="1521038745746" duration="6108000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
     <history-entry file="All_in_solid-1 - 2018.03.14 at 16h 19m 53s.xml">
       <configuration name="All in solid-1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DriverTest - 2018.03.14 at 16h 27m 10s.xml">
+      <configuration name="DriverTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DriverTest - 2018.03.14 at 16h 27m 33s.xml">
+      <configuration name="DriverTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="DriverTest_DriverTest - 2018.03.14 at 15h 37m 07s.xml">
       <configuration name="DriverTest.DriverTest" configurationId="JUnit" />
@@ -674,10 +666,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16563000" />
+    <option name="totallyTimeSpent" value="17006000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1073" y="856" width="2106" height="1285" extended-state="0" />
+    <frame x="1024" y="725" width="2106" height="1285" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1045,17 +1038,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/uk/co/mohc/solid/dip/violation/DriverTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/uk/co/mohc/solid/dip/solution/Vehicle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -1108,14 +1090,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/uk/co/mohc/solid/dip/violation/RacingCarTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="162">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#200#201#0" expanded="true" />
             <element signature="e#246#247#0" expanded="true" />
             <element signature="e#281#282#0" expanded="true" />
             <element signature="e#319#320#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/uk/co/mohc/solid/dip/violation/DriverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
           </folding>
         </state>
       </provider>

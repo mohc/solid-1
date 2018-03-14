@@ -1,16 +1,21 @@
 package uk.co.mohc.solid.dip.violation;
 
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-public class DriverTest {
-    @Test
-    public void DriverTest() {
-        Driver driver = new Driver();
+
+
+class DriverTest {
+
+    private Driver driver;
+
+    @BeforeEach
+    void setUp() {
+        driver = new Driver();
     }
 
     @Test
     void increaseSpeed() {
-        Driver driver = new Driver();
         driver.increaseSpeed();
     }
 }

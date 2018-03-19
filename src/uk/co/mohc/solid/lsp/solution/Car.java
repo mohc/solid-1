@@ -4,19 +4,18 @@ public class Car extends Vehicle {
 
     @Override
     public void changeGear(Gear gear) {
-        Gear actualGear = getGear();
-        if (isMovingForwards(gear, actualGear)
-                || isMovingBackwards(gear, actualGear)) {
+        if (isMovingForwards() && gear.equals(Gear.R)
+             || isMovingBackwards() && gear.equals(Gear.D)) {
             stop();
         }
         super.changeGear(gear);
     }
 
-    private boolean isMovingBackwards(Gear gear, Gear actualGear) {
-        return isMoving() && Gear.R.equals(actualGear) && Gear.D.equals(gear);
+    private boolean isMovingBackwards() {
+        return isMoving() && getGear().equals(Gear.R);
     }
 
-    private boolean isMovingForwards(Gear gear, Gear actualGear) {
-        return isMoving() && Gear.D.equals(actualGear) && Gear.R.equals(gear);
+    private boolean isMovingForwards() {
+        return isMoving() && getGear().equals(Gear.D);
     }
 }

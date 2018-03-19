@@ -10,10 +10,16 @@ class RacingCarTest {
     @BeforeEach
     void setUp() {
         racingCar = new RacingCar(100);
+        racingCar.printStatus();
     }
 
     @Test
     void accelerate() {
         racingCar.accelerate();
+        racingCar.printStatus();
+    }
+
+    @org.junit.jupiter.api.AfterEach
+    void tearDown() {
     }
 }

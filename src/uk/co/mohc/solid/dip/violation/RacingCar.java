@@ -18,4 +18,8 @@ public class RacingCar {
         power++;
         remainingFuel--;
     }
+
+    public void printStatus() {
+        System.out.println("Power: "+this.power+", Fuel: "+this.remainingFuel);
+    }
 }

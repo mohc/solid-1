@@ -18,8 +18,4 @@ class RacingCarTest {
         racingCar.accelerate();
         racingCar.printStatus();
     }
-
-    @org.junit.jupiter.api.AfterEach
-    void tearDown() {
-    }
 }

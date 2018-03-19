@@ -8,3 +8,6 @@ than the (sub)classes themselves.
 
 If you don't follow the LSP, external processes will either break, behave improperly, or need to know too much 
 information.
+
+## Exercise
+Refactor the classes in the violation folder to comply with the liskov substitution principle.  eg.

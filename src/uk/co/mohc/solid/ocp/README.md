@@ -8,5 +8,5 @@ type of driving. We don't want to have to modify our existing, working code to a
 
 ## Exercise
 
-Refactor the example to allow extension of functionality for different styles of driving without modification of the 
-base classes.
+Refactor the classes in the violation folder to allow extension of functionality for different styles of driving without
+modification of the base classes.

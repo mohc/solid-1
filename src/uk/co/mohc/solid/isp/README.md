@@ -16,5 +16,5 @@ In the violation the Switches interface specifies all the different types of swi
 out the switches that they don't require.
 
 ## Exercise
-Refactor the classes below to provide good segregation of interfaces so that each is responsible for only one 
+Refactor the classes in the violation folder to provide good segregation of interfaces so that each is responsible for only one
 particular behavior.

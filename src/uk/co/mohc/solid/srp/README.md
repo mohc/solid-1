@@ -6,3 +6,6 @@ In this violation example the Vehicle is not responsible for refuelling itself, 
 pump.  Each class should have a single responsibility.  Consider a petrol pump that is designed to shutoff when the car 
 has reached 90% of it's max fuel capacity, if the Vehicle class takes on the re-fuel responsibility it would be unable 
 to reflect the different characteristics of each petrol pump.
+
+## Exercise
+Refactor the classes in the violation folder so that each class only has one responsibility

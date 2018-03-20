@@ -1,7 +1,7 @@
 package uk.co.mohc.solid.isp.violation;
 
 
-public class Drone extends Vehicle {
+public class Drone extends Vehicle implements CameraSwitches {
 
     private boolean cameraOn;
 
@@ -19,13 +19,4 @@ public class Drone extends Vehicle {
         cameraOn = false;
     }
 
-    @Override
-    public void turnRadioOn() {
-        // nothing to do here
-    }
-
-    @Override
-    public void turnRadioOff() {
-        // nothing to do here
-    }
 }

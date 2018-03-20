@@ -1,6 +1,5 @@
 package uk.co.mohc.solid.ocp.violation;
 
-
 public class Vehicle {
 
     private int power;
@@ -14,12 +13,20 @@ public class Vehicle {
         return suspensionHeight;
     }
 
-    public void setPower(final int power) {
+    public void setPower(int power) {
         this.power = power;
     }
 
-    public void setSuspensionHeight(final int suspensionHeight) {
+    public void setSuspensionHeight(int suspensionHeight) {
         this.suspensionHeight = suspensionHeight;
+    }
+
+    public void setDrivingMode(DrivingMode drivingMode) {
+        if(drivingMode == null) {
+            drivingMode = DrivingMode.ECONOMY;
+        }
+        this.power = drivingMode.getPower();
+        this.suspensionHeight = drivingMode.getSuspensionHeight();
     }
 
 }

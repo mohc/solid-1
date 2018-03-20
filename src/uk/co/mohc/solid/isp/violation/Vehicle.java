@@ -1,6 +1,6 @@
 package uk.co.mohc.solid.isp.violation;
 
-public abstract class Vehicle implements Switches {
+public abstract class Vehicle implements EngineSwitches {
 
     private boolean engineRunning;
 

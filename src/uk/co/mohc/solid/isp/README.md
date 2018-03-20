@@ -12,7 +12,7 @@ Instead, make interfaces more abstract. It helps adhere to both the SRP (the int
 particular behavior) and this Interface Segregation Principle because specific objects only implement the functionality 
 they need.
 
-In the violation the Switches interface specifies all the different types of switches, the implementing classes dummy 
+In the violation the CameraSwitches interface specifies all the different types of switches, the implementing classes dummy
 out the switches that they don't require.
 
 ## Exercise

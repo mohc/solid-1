@@ -1,6 +1,6 @@
-package uk.co.mohc.solid.dip.violation;
+package uk.co.mohc.solid.dip.solution;
 
-public class RacingCar {
+public class RacingCar implements Car {
 
     private final int maxFuel;
     private int remainingFuel;

@@ -1,7 +1,7 @@
 package uk.co.mohc.solid.isp.violation;
 
 
-public class Car extends Vehicle {
+public class Car extends Vehicle implements RadioSwitches {
 
     private boolean radioOn;
 
@@ -19,13 +19,6 @@ public class Car extends Vehicle {
         radioOn = false;
     }
 
-    @Override
-    public void turnCameraOn() {
-        // nothing to do here
-    }
 
-    @Override
-    public void turnCameraOff() {
-        // nothing to do here
-    }
+
 }
